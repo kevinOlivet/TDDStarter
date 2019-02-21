@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Kevin",
+    "amount": 123
+  },
+  {
+    "name": "Alejandro",
+    "amount": 456
+  },{
+    "name": "Ivan",
+    "amount": 789
+  },{
+    "name": "Roberto",
+    "amount": 1234
+  },{
+    "name": "Magno",
+    "amount": 5678
+  },{
+    "name": "Julian",
+    "amount": 9012
+  }
+]
